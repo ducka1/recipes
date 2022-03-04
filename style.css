@@ -1,0 +1,40 @@
+* {
+    font-family: Arial;
+}
+
+.header {
+    color: white;
+    font-size: 72px;
+    background-color: green;
+}
+
+.link {
+    font-size: 48px;
+    background-color: white;
+}
+
+.body {
+    background-color: powderblue;
+}
+
+p, li {
+    color: greenyellow
+}
+
+p {
+    background-color: black;
+}
+
+li {
+    font-size: 16px;
+    background-color: black;
+}
+
+.img{
+    background-color: blue;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
